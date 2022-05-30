@@ -1,0 +1,32 @@
+{
+    "CONTRACT_ADDRESS": "0xEd5467Fd62250788EdaA228ae27a609A39B354B0",
+    // "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xe674004BC36c5c843b49391922E11B6D42496884",    // Ethomes Contract
+    "NETWORK": {
+        "NAME": "Polygon Mainnet",
+        "SYMBOL": "MATIC",
+        "ID": 137,
+        "URL": "https://polygon-rpc.com/"
+    },
+    "MAX_SUPPLY": 9,
+    "MAX_PRESALE": 4,
+    "WEI_COST": "100000000000000000",
+    "DISPLAY_COST": 0.1,
+    "PRESALE_TIMESTAMP": 1644183333,
+    "PUBSALE_TIMESTAMP": 1646254800
+}
+// {
+//     "CONTRACT_ADDRESS": "0x6F2cC61663439780Da109df8c9A14eE1c14acF65",
+//     "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xe674004BC36c5c843b49391922E11B6D42496884",
+//     "NETWORK": {
+//         "NAME": "Rinkeby",
+//         "SYMBOL": "ETH",
+//         "ID": 4,
+//         "URL": "https://rinkeby.infura.io/v3/9aa3d95b3bc440fa88ea12eaa4456161"
+//     },
+//     "MAX_SUPPLY": 9,
+//     "MAX_PRESALE": 4,
+//     "WEI_COST": "100000000000000000",
+//     "DISPLAY_COST": 0.1,
+//     "PRESALE_TIMESTAMP": 1644183333,
+//     "PUBSALE_TIMESTAMP": 1646254800
+// }
